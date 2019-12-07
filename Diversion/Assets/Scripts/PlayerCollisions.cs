@@ -48,8 +48,9 @@ public class PlayerCollisions : MonoBehaviour
         else if (hit.gameObject.tag =="shackDoor" && !doorIsOpen && BatteryCollect.charge < 4)
         {
             BatteryCollect.chargeUI.enabled = true;
+            TextHints.textOn = true;
             TextHints.message = "The door seems to need more power...";
-            TextHints.textOn = true; 
+           
         }
     }
 
