@@ -1,8 +1,10 @@
-﻿**
+﻿
 
 ## Diversion
 
-a game made at Azusa Pacific University by Chiara Grimaldi 
+ A game produced at APU by Chiara Grimaldi.
+
+Contact: cgrimaldi19@apu.edu
 
 ## Description 
 A 3-d adventure puzzle game where the main character is in search for a creature never before seen.
