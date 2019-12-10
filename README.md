@@ -14,5 +14,5 @@ The player must explore the map, collecting all of the required items to complet
 ## Controls
 
 **Mac:** w,a,s,d = walking up, left,down, or right;  mouse/track-pad controls camera; space bar=jump;  run= shift 
-**Windows:**w,a,s,d = walking up, left,down, or right;  mouse/track-pad controls camera; space bar=jump;  run= shift
+**Windows:** w,a,s,d = walking up, left,down, or right;  mouse/track-pad controls camera; space bar=jump;  run= shift
 
