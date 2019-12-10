@@ -7,7 +7,7 @@
 Contact: cgrimaldi19@apu.edu
 
 ## Description 
-A 3-d adventure puzzle game where the main character is in search for a creature never before seen.
+A 3-D adventure puzzle game where the main character is in search for a creature never before seen.
 
 ## Instructions
 The player must explore the map, collecting all of the required items to complete the puzzle and find the mystery behind the hidden space. 
